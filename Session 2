@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aati5h Assignment 1</title>
+</head>
+<title>Assignment</title>
+<body>
+ <h1> How much FUN? </h1>
+<br>
+<br>   
+ <p>       Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun Fun </p>
+ <p>       <a href="https://www.fun.com" target="_blank">How to get some things to have Fun?</a></p>
+ 
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br> 
+
+ 
+   <ol type ="A">
+   <li><h2>Fun</h2>
+       <ul type="square">
+           <li>fun</li>
+           <li>fun</li>
+           <li>fun</li>
+           <li>fun</li>
+           <li>fun</li>
+           <li>fun</li>
+       </ul>
+   </li>
+   <li><h2>Fun</h2></li>
+   <li><h2>Fun</h2></li>
+   <li><h2>Fun</h2></li>
+   </ol>  
+
+<br>
+<br>
+<br> 
+
+<p>Where do I go if I want to have some FUN? I have a Recommendation for you -</p>
+<img src="https://images.pexels.com/photos/4338256/pexels-photo-4338256.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" height="540px" width="480px" alt="Error ofc."
+
+</body>
+
+<br>
+<br>
+<br>
+
+<table border="5px"> 
+    <thead>
+        <tr>
+          <th>fun</th>
+          <th>fun</th>
+          <th>fun</th>
+          <th>fun</th>
+          <th>fun</th>
+        </tr>
+          </thead>
+  
+          <tbody>
+        <tr>
+          <td>26</td>
+          <td>25</td>
+          <td>24</td>
+          <td>23</td>
+          <td>22</td>
+          
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>14</td>
+          <td>13</td>
+          <td>12</td>
+          <td>11</td>
+        </tr>
+        <tr>
+          <td>05</td>
+          <td>04</td>
+          <td>03</td>
+          <td>02</td>
+          <td>01</td>
+        </tr>
+          </tbody>
+          <tfoot>
+          <tr>
+          <td>ta</td>
+          <td>ra</td>
+          <td>ha</td>
+          <td>na</td>
+          <td>fa</td>  
+        </tr>
+          </tfoot>
+      
+  
+</table>
+
+</html>
